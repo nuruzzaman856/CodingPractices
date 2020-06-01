@@ -1,0 +1,13 @@
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.exe
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.deps.json
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.runtimeconfig.json
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.runtimeconfig.dev.json
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.dll
+C:\visual stadio\TärningsSimulator\TärningsSimulator\bin\Debug\netcoreapp3.1\TärningsSimulator.pdb
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.csprojAssemblyReference.cache
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.AssemblyInfoInputs.cache
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.AssemblyInfo.cs
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.csproj.CoreCompileInputs.cache
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.dll
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.pdb
+C:\visual stadio\TärningsSimulator\TärningsSimulator\obj\Debug\netcoreapp3.1\TärningsSimulator.genruntimeconfig.cache

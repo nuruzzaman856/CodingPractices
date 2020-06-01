@@ -1,0 +1,13 @@
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.exe
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.deps.json
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.runtimeconfig.json
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.runtimeconfig.dev.json
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.dll
+C:\visual stadio\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.pdb
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.csprojAssemblyReference.cache
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.AssemblyInfoInputs.cache
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.AssemblyInfo.cs
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.csproj.CoreCompileInputs.cache
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.dll
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.pdb
+C:\visual stadio\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.genruntimeconfig.cache

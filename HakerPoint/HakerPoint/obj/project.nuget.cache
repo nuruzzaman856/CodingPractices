@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0XWWNfFj5q480pmSz/yTvQcNgQRiFN7otBy8Gq2IOpa00VOeIeck4yM2PGbPB8lGuIsxsdMbCWi2PinQaA3Gg==",
+  "success": true,
+  "projectFilePath": "C:\\visual stadio\\HakerPoint\\HakerPoint\\HakerPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grossfactory\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

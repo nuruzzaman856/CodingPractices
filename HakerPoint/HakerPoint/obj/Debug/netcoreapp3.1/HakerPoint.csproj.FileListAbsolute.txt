@@ -1,0 +1,13 @@
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.exe
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.deps.json
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.runtimeconfig.json
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.runtimeconfig.dev.json
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.dll
+C:\visual stadio\HakerPoint\HakerPoint\bin\Debug\netcoreapp3.1\HakerPoint.pdb
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.csprojAssemblyReference.cache
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.AssemblyInfoInputs.cache
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.AssemblyInfo.cs
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.csproj.CoreCompileInputs.cache
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.dll
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.pdb
+C:\visual stadio\HakerPoint\HakerPoint\obj\Debug\netcoreapp3.1\HakerPoint.genruntimeconfig.cache
